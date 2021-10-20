@@ -1,5 +1,6 @@
 # offline-budget-tracker
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+
+![GitHub](https://img.shields.io/github/repo-size/asantercureton/offline-budget-tracker?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/asantercureton/offline-budget-tracker?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/asantercureton/offline-budget-tracker?style=plastic) ![GitHub](https://img.shields.io/github/followers/asantercureton?style=social)
 
 ## Description
 <!-- Designed a note taker application using Express.js that allows user to save important tasks to remember to complete at a later time. -->
