@@ -45,4 +45,4 @@ Below is a screenshot of the project:
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ---
-© 2021 Professional Note Taker.
+© 2021 PWA Budget Tracker.
